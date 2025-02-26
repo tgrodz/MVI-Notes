@@ -1,4 +1,4 @@
-# MVI (Model-View-Intent)
+# MVI with Jetpack Compose
 
 
 MVI (Model-View-Intent) is an architectural pattern for building UI 
