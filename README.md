@@ -9,8 +9,6 @@ reactive model where user actions (Intents) are transformed into states
 ## Core Components of MVI
 
 ### Model
-
-repeat
 - Responsible for managing data and its changes.
 - Stores the current state of the application.
 - Can interact with repositories, databases, and APIs.
